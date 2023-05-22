@@ -50,9 +50,9 @@ insertion_sort(list_of_nums)
 print(list_of_nums)
 ```
 ## Output:
-i) Selection Sort
+i) Selection Sort  
 ![OUTPUT](./output1.png)  
-ii) Insertion Sort
+ii) Insertion Sort  
 ![OUTPUT](./output2.png)
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
